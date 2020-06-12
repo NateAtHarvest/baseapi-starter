@@ -1,0 +1,5 @@
+{
+    "require": {
+        "nateatnts/baseapi": "^0.1.2"
+    }
+}
