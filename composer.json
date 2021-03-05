@@ -5,7 +5,7 @@
         "api"
     ],
     "require": {
-        "nateatnts/baseapi": "^0.1.2"
+        "nateatnts/baseapi": "^0.1.10"
     }
 }
 
