@@ -26,6 +26,7 @@ $config = [
         ],
         'urlManager' => [
             'class' => yii\web\UrlManager::class,
+            'cache' => null,
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'ruleConfig' => [
